@@ -38,3 +38,8 @@ const developer = {
   objetivo: "Criar soluções que impactam de verdade 🎯"
 }
 ```
+
+### 🌐 Idiomas
+- Português: Nativo 🇧🇷
+- Inglês: Intermediário (em evolução 🚀)
+

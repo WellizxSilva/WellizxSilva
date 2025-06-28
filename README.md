@@ -1,6 +1,6 @@
 ## 🔧 Olá, Me chamo Wellington Silva 🌍
 #### Sou desenvolvedor Back-End com foco em Node.js e apaixonado por criar soluções performáticas, escaláveis e bem estruturadas. Estou sempre em busca de aprender novas tecnologias e contribuir com projetos que causem impacto real.
-[![Learning Badge](https://img.shields.io/badge/Always%20learning-%F0%9F%94%8E-blueviolet?style=for-the-badge)](https://github.com/WellizxSilva/WellizxSilva/)
+[![Learning Badge](https://img.shields.io/badge/Always%20learning-%F0%9F%94%8E-fff?style=for-the-badge)](https://github.com/WellizxSilva/WellizxSilva/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&lines=Desenvolvedor+Back-End;Em+busca+do+codigo+perfeito;sucess+=+true+🎯)](https://github.com/WellizxSilva/WellizxSilva/)
 

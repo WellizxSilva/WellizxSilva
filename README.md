@@ -35,7 +35,7 @@ const developer = {
   vibes: ["Clean Code", "Arquitetura escalável", "APIs performáticas"],
   status: ["Aprendendo NestJS 🚀", "Aprendendo TypeScript 🌀"],
   bugs: false,
-  objetivo: "Criar soluções que impactam de verdade 🎯"
+  objective: "Criar soluções que impactam de verdade 🎯"
 }
 ```
 

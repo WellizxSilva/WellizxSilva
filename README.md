@@ -17,7 +17,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 
-### Frameworks e bibiliotecas:
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
+
+### Frameworks, bibiliotecas:
 [![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 [![FastiFy](https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 

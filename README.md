@@ -26,7 +26,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 [![Nest Js](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/WellizxSilva/WellizxSilva/)
-[![https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white](https://github.com/WellizxSilva/WellizxSilva)
+[![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva)
 
 ## ⚡Sobre mim 💻: 
 ```js

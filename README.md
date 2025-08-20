@@ -17,15 +17,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 
 ### Frameworks, bibiliotecas:
 [![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 [![FastiFy](https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 
 ### Atualmente Aprendendo: 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 [![Nest Js](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/WellizxSilva/WellizxSilva/)
 [![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 
 ## ⚡Sobre mim 💻: 

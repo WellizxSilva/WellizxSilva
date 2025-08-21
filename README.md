@@ -28,15 +28,29 @@
 [![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 
 ## ⚡Sobre mim 💻: 
-```js
-let developer = {
-  name: "Wellington Silva",
-  stack: ["Node.js", "TypeScript", "PostgreSQL, C++"],
-  focus: "Back-End",
-  vibes: ["Clean Code", "Arquitetura escalável", "APIs performáticas"],
-  status: ["Aprendendo NestJS 🚀", "Aprendendo C++ 🌀"],
-  bugs: false,
-  objective: "Criar soluções que impactam de verdade 🎯"
+
+```cpp
+#include <map>
+#include <string>
+#include <variant>
+#include <vector>
+
+int main(int argc, char* argv[]) {
+    typedef std::variant<std::string, std::vector<std::string>, bool> VALUE;
+    using map_t = std::map<std::string, VALUE>;
+    const bool NEVER = false;
+
+    map_t developer = {
+        {"name", "Wellington Silva"},
+        {"stack", std::vector<std::string>{"NodeJS", "TypeScript", "C++"}},
+        {"focus", "Back-End"},
+        {"vibes", std::vector<std::string>{"Clean Code", "Arquitetura escalável", "APIs performáticas"}},
+        {"status", std::vector<std::string>{"Aprendendo NestJS 🚀", "Aprendendo C++ 🌀"}},
+        {"bugs", NEVER},
+        {"objective", "Criar soluções que impactam de verdade 🎯"}
+    };
+
+    return 0;
 }
 ```
 

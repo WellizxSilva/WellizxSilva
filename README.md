@@ -38,7 +38,7 @@
 int main(int argc, char* argv[]) {
     typedef std::variant<std::string, std::vector<std::string>, bool> VALUE;
     using map_t = std::map<std::string, VALUE>;
-    const bool NEVER = false;
+    const bool NEVER = true;
 
     map_t developer = {
         {"name", "Wellington Silva"},

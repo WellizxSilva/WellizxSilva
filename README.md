@@ -18,6 +18,8 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
+[![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
+[![Lua](https://img.shields.io/badge/Lua-000080.svg?style=for-the-badge&logo=Lua&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)
 
 ### Frameworks, bibiliotecas:
 [![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)](https://github.com/WellizxSilva/WellizxSilva/)

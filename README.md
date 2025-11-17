@@ -2,7 +2,7 @@
 #### Sou desenvolvedor Back-End em busca de criar soluções performáticas, escaláveis e bem estruturadas. Estou sempre em busca de aprender novas tecnologias e contribuir com projetos que causem impacto real.
 [![Learning Badge](https://img.shields.io/badge/Always%20learning-%F0%9F%94%8E-fff?style=for-the-badge)](https://github.com/WellizxSilva/WellizxSilva/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&lines=Desenvolvedor+Back-End;Em+busca+do+codigo+perfeito;sucess+=+true+🎯)](https://github.com/WellizxSilva/WellizxSilva/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&lines=Desenvolvedor+Back-End;Em+busca+do+codigo+perfeito;success+=+true+🎯)](https://github.com/WellizxSilva/WellizxSilva/)
 
 
 [![WellizxSilva's Stats](https://github-readme-stats.vercel.app/api?username=WellizxSilva&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&)](https://github.com/WellizxSilva/WellizxSilva/)

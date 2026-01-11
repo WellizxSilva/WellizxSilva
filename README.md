@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&lines=Desenvolvedor+Back-End;Em+busca+do+codigo+perfeito;success+=+true+🎯)](https://github.com/WellizxSilva/WellizxSilva/)
 
 
-[![WellizxSilva's Stats](https://github-readme-stats.vercel.app/api?username=WellizxSilva&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&)](https://github.com/WellizxSilva/WellizxSilva/)
+[![WellizxSilva's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/WellizxSilva?cardType=level&theme=gotham&fontFamily=Afacad&preferLogin=false&Points.Commits=300&Points.ContributedToOwnRepositories=10&Points.PullRequests=15&Points.PullRequestsToAnotherRepositories=15&borderRadius=4&Ring=FF0C0C&Text=0B34DD)](https://github.com/WellizxSilva/WellizxSilva/)
 
 
 
